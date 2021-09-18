@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/victoriasviridchik/RiderProjects/WEB_953501_SVIRIDCHIK/WEB_953501_SVIRIDCHIK.csproj": {}
+    "/Users/victoriasviridchik/RiderProjects/WEB_953501_SVIRIDCHIK — копия/WEB_953501_SVIRIDCHIK.csproj": {}
   },
   "projects": {
-    "/Users/victoriasviridchik/RiderProjects/WEB_953501_SVIRIDCHIK/WEB_953501_SVIRIDCHIK.csproj": {
+    "/Users/victoriasviridchik/RiderProjects/WEB_953501_SVIRIDCHIK — копия/WEB_953501_SVIRIDCHIK.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/victoriasviridchik/RiderProjects/WEB_953501_SVIRIDCHIK/WEB_953501_SVIRIDCHIK.csproj",
+        "projectUniqueName": "/Users/victoriasviridchik/RiderProjects/WEB_953501_SVIRIDCHIK — копия/WEB_953501_SVIRIDCHIK.csproj",
         "projectName": "WEB_953501_SVIRIDCHIK",
-        "projectPath": "/Users/victoriasviridchik/RiderProjects/WEB_953501_SVIRIDCHIK/WEB_953501_SVIRIDCHIK.csproj",
+        "projectPath": "/Users/victoriasviridchik/RiderProjects/WEB_953501_SVIRIDCHIK — копия/WEB_953501_SVIRIDCHIK.csproj",
         "packagesPath": "/Users/victoriasviridchik/.nuget/packages/",
-        "outputPath": "/Users/victoriasviridchik/RiderProjects/WEB_953501_SVIRIDCHIK/obj/",
+        "outputPath": "/Users/victoriasviridchik/RiderProjects/WEB_953501_SVIRIDCHIK — копия/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/victoriasviridchik/.nuget/NuGet/NuGet.Config"

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Mvc.Rendering;using System;
+using Microsoft.AspNetCore.Mvc.Rendering;
 
 namespace WEB_953501_SVIRIDCHIK.Controllers
 {
@@ -24,7 +24,7 @@ namespace WEB_953501_SVIRIDCHIK.Controllers
         // GET
         public IActionResult Index()
         { 
-            ViewData["Text"] = "Лабораторная работа 2";
+            ViewData["Text"] = "Лабораторная работа 3";
             ViewData["Lst"] =
                 new SelectList(_listDemo,"ListItemValue","ListItemText");
             return View();
