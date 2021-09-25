@@ -12,36 +12,30 @@
 <body>
 
 <header>
-
     <div class="container">
         <!-- Панель навигации -->
         <nav class="navbar navbar-expand-md navbar-dark bg-dark">
-            <!-- <a class="navbar-brand" href="#">WebLabsV27</a>
-            <h3> <a href="#" class="badge badge-dark">WebLabsV27</a></h3>
-            <nav class="navbar  navbar-dark bg-dark">
-                <a class="navbar-brand" href="#">Лб 1</a>
-            </nav>-->
-            <!-- Navbar content -->
             <a class="navbar-brand" asp-action="Index" asp-
-            controller="Home">WebLabsV27</a>
-            
+               controller="Home">
+                WebLabsV27
+            </a>
+
             <div class="navbar-nav">
-            @await Component.InvokeAsync("Menu")
+                @await Component.InvokeAsync("Menu")
             </div>
-            <!--<h3> <a href="#" class="badge badge-dark">WebLabsV27</a></h3>-->
-         <partial name="_UserPartial" />
+            <partial name="_UserPartial"/>
 
         </nav>
         <!-- <span class="nav-color">Заголовок страницы</span> -->
     </div><!-- container - конец -->
-</header><!-- header - конец -->   
+</header><!-- header - конец -->
 
 <main class="container">
-           @RenderBody()
+    @RenderBody()
 </main>
 <footer>
     <div class="container">
-       <!-- <span class="nav-color">Подвал страницы</span>-->
+        <!-- <span class="nav-color">Подвал страницы</span>-->
         <div class="navbar navbar-dark navbar-expand-md bg-dark">
             <div class="navbar-nav ml-auto">
                 <a class="nav-item nav-link" href="http://www.facebook.com">
